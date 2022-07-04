@@ -6,7 +6,10 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	_dartobservatory._tcp
+<key>NSBonjourServices</key>
+<array>
+    <string>_dartobservatory._tcp</string>
+</array>
 	<key>CFBundleDisplayName</key>
 	<string>Todoey Flutter</string>
 	<key>CFBundleExecutable</key>
